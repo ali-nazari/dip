@@ -14,7 +14,7 @@
     <td><a href="https://github.com/tarabarghian">Tara Barghian</a></td>
   </tr>
   <tr>
-    <td><img src="images/tara.jfif" alt="" border='3' height='140' width='120' /></td>
+    <td><img src="images/t.jfif" alt="" border='3' height='140' width='120' /></td>
   </tr>
 </table>
 
