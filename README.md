@@ -23,7 +23,7 @@ and practice them in the second part.
   <tr>
     <td class="tg-0lax"><img src="images/dip4e.jpg" alt="" border='3' height='160' width='170' /></td>
     <td class="tg-0lax"><img src="images/computer_vision_szeliski.jpg" alt="" border='3' height='160' width='170' /></td>
-    <td class="tg-0lax"><img src="images/pillow.jpg" alt="" border='3' height='160' width='170' /></td>
+    <td class="tg-0lax"><img src="images/pillow.jfif" alt="" border='3' height='160' width='170' /></td>
     <td class="tg-0lax"><img src="images/digital_photography.jpg" alt="" border='3' height='160' width='170' /></td>
   </tr>
 </table>
