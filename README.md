@@ -1,5 +1,23 @@
 # Fundamentals of Computer Vision and Digital Image Processing
 
+<table>
+  <tr>
+    <th colspan="2"><span style="font-weight:bold">Lecturer: </span>Ali Nazari</th>
+  </tr>
+  <tr>
+    <td><img src="images/nazari.jfif" alt="" border='3' height='140' width='120' /></td>
+  </tr>
+  <tr>
+    <td colspan="5"><span style="font-weight:bold">Teaching Assistants:</span></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/tarabarghian">Tara Barghian</a></td>
+  </tr>
+  <tr>
+    <td><img src="images/tara.jfif" alt="" border='3' height='140' width='120' /></td>
+  </tr>
+</table>
+
 ### **Index:**
 - [Course Overview](#Course-Overview)
 - [TextBooks](#TextBooks)
