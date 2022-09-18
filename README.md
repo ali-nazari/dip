@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <th colspan="2"><span style="font-weight:bold">Lecturer: </span>Ali Nazari</th>
+    <th colspan="2"><span style="font-weight:bold">Presenter: </span>Ali Nazari</th>
   </tr>
   <tr>
     <td><img src="images/nazari.jfif" alt="" border='3' height='140' width='120' /></td>
