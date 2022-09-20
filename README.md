@@ -83,7 +83,8 @@ Wednesday  09:00-10:30 AM.
 Final Exam –60% </br>
 Quiz –10%  </br>
 Homework -10% </br>
-Practical homework -20%</br>
+Practical homework -10%</br>
+Presentation -10%</br>
 Bonus mark to active student -5% </br>
 
 ## <a name="Questions"></a>Questions?
