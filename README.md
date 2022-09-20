@@ -68,7 +68,9 @@ Additional Texts:
   
 
  ## <a name='syllabus' />Syllabus
-
+  1. An Introduction to Digital Image Processing
+        <br/><t/>I. Appications and Wonders of Image processing
+  2. Digital Image Fundamentals
 
 
 ## <a name="Class-Time-and-Location"></a>Class Time and Location:
@@ -88,5 +90,4 @@ Bonus mark to active student -5% </br>
 You can ask your question by sending a mail to al_nazari@sbu.ac.ir or ali.nazari.ir@gmail.com 
 
 ## <a name="links"></a>Recommended Links:
-### <a name="recom_edu"></a>Recommended Links for successful path in CS:
-1. [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science) 
+1. [OpenCV-Python Tutorials](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html) 
