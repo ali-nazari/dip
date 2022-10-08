@@ -93,3 +93,6 @@ You can ask your question by sending a mail to al_nazari@sbu.ac.ir or ali.nazari
 
 ## <a name="links"></a>Recommended Links:
 1. [OpenCV-Python Tutorials](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html) 
+2. [Tutorial for Pillow (1)](https://pillow.readthedocs.io/en/stable/handbook/tutorial.html)
+3. [Image Processing With the Python Pillow Library](https://realpython.com/image-processing-with-the-python-pillow-library/)
+4. [Tutorial for Pillow (2)](https://coderzcolumn.com/tutorials/python/pillow)
