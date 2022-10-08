@@ -76,15 +76,16 @@ Additional Texts:
       <br/><t/>I. Human Eye Physiology
       <ul>
       <li>Brightness adaptation and discrimination</li>
-      <li>III.Perception of light by human beings (Mach band effect and simultaneous constrast)</li>
-      <li>V. Optical Illumination</li>
+      <li>Perception of light by human beings (Mach band effect and simultaneous constrast)</li>
+      <li>Optical Illumination</li>
       </ul>
-      <br/><t/>V. Light and Electromagnetic
-      <br/><t/>V.Artificial Visual Systems
-      <br/><t/><t/>V.Sampling
-      <br/><t/><t/>V.Quantization
-      <br/><t/><t/>V.Resampling Methods
-      
+      <br/><t/>II. Light and Electromagnetic
+      <br/><t/>III.Artificial Visual Systems:
+      <ul>
+      <li>Sampling</li>      
+      <li>Quantization</li>
+      <li>Resampling Methods</li>
+      </ul>      
 
 
 ## <a name="Class-Time-and-Location"></a>Class Time and Location:
