@@ -73,6 +73,18 @@ Additional Texts:
   1. An Introduction to Digital Image Processing
         <br/><t/>I. Appications and Wonders of Image processing
   2. Digital Image Fundamentals
+      <br/><t/>I. Human Eye Physiology
+      <ul>
+      <li>Brightness adaptation and discrimination</li>
+      <li>III.Perception of light by human beings (Mach band effect and simultaneous constrast)</li>
+      <li>V. Optical Illumination</li>
+      </ul>
+      <br/><t/>V. Light and Electromagnetic
+      <br/><t/>V.Artificial Visual Systems
+      <br/><t/><t/>V.Sampling
+      <br/><t/><t/>V.Quantization
+      <br/><t/><t/>V.Resampling Methods
+      
 
 
 ## <a name="Class-Time-and-Location"></a>Class Time and Location:
