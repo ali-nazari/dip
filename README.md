@@ -12,9 +12,11 @@
   </tr>
   <tr>
     <td><a href="https://github.com/tarabarghian">Tara Barghian</a></td>
+    <td><a href="https://github.com/Sahari-96">Sahar Farazi</a></td>
   </tr>
   <tr>
     <td><img src="images/t.jfif" alt="" border='3' height='140' width='120' /></td>
+    <td><img src="images/s.jfif" alt="" border='3' height='140' width='120' /></td>
   </tr>
 </table>
 
@@ -81,10 +83,9 @@ Wednesday  09:00-10:30 AM.
 # <a name="Grading"></a>Grading:
 
 Final Exam –60% </br>
-Quiz –10%  </br>
-Homework -10% </br>
-Practical homework -10%</br>
-Presentation -10%</br>
+Quiz –5%  </br>
+Homework -20% </br>
+Final Project -15%</br>
 Bonus mark to active student -5% </br>
 
 ## <a name="Questions"></a>Questions?
