@@ -95,9 +95,9 @@ Wednesday  09:00-10:30 AM.
 
 # <a name="Grading"></a>Grading:
 
-Final Exam –60% </br>
+Final Exam –50% </br>
 Quiz –5%  </br>
-Homework -20% </br>
+Homework -30% </br>
 Final Project -15%</br>
 Bonus mark to active student -5% </br>
 
