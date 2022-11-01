@@ -13,10 +13,12 @@
   <tr>
     <td><a href="https://github.com/tarabarghian">Tara Barghian</a></td>
     <td><a href="https://github.com/Sahari-96">Sahar Farazi</a></td>
+    <td><a href="https://github.com/Samira-Tajik">Samira Tajik</a></td>
   </tr>
   <tr>
     <td><img src="images/t.jfif" alt="" border='3' height='140' width='120' /></td>
     <td><img src="images/s.jfif" alt="" border='3' height='140' width='120' /></td>
+    <td><img src="images/j.jfif" alt="" border='3' height='140' width='120' /></td>
   </tr>
 </table>
 
@@ -85,6 +87,23 @@ Additional Texts:
       <li>Sampling</li>      
       <li>Quantization</li>
       <li>Resampling Methods</li>
+      </ul>      
+  2. Image Enhancement (Intensity Transformation)
+      <br/><t/>I. Point Processing Techniques
+      <ul>
+      <li>Linear and Negative</li>
+      <li>Power-Law (GAMMA) Transformation</li>
+      <li>Log Transformation</li>
+      </ul>
+      <br/><t/>II. Global Processing Techniques
+      <ul>
+      <li>Histogram</li>
+      <li>Histogram Equalization</li>
+      <li>Histogram Specification (Matching)</li>
+      </ul>   
+      <br/><t/>III.Local Processing Techniques
+      <ul>
+      <li>Spatial Filtering</li>      
       </ul>      
 
 
