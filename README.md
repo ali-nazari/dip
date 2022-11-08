@@ -89,20 +89,23 @@ Additional Texts:
       <li>Resampling Methods</li>
       </ul>      
   2. Image Enhancement (Intensity Transformation)
-      <br/><t/>I. Point Processing Techniques
+      <br/><t/>I. Gray-level Processing Techniques
       <ul>
       <li>Linear and Negative</li>
       <li>Power-Law (GAMMA) Transformation</li>
       <li>Log Transformation</li>
+      <li>Gray-level Slicing</li>
+      <li>Bit-plance Slicing</li>
       </ul>
-      <br/><t/>II. Global Processing Techniques
+      <br/><t/>II. Global Processing Techniques (Global Enhancement)
       <ul>
       <li>Histogram</li>
       <li>Histogram Equalization</li>
       <li>Histogram Specification (Matching)</li>
       </ul>   
-      <br/><t/>III.Local Processing Techniques
+      <br/><t/>III.Local Processing Techniques (Local Enhancement)
       <ul>
+      <li>Histogram in the local window</li>
       <li>Spatial Filtering</li>      
       </ul>      
 
