@@ -133,3 +133,4 @@ You can ask your question by sending a mail to al_nazari@sbu.ac.ir or ali.nazari
 4. [Tutorial for Pillow (2)](https://coderzcolumn.com/tutorials/python/pillow)
 5. [CNNs / ConvNets](https://cs231n.github.io/convolutional-networks/)
 6. [An Intuitive Explanation of CNNs](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
+7. [What Are Convolutional Neural Networks?](https://de.mathworks.com/videos/introduction-to-deep-learning-what-are-convolutional-neural-networks--1489512765771.html)
