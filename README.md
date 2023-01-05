@@ -131,3 +131,5 @@ You can ask your question by sending a mail to al_nazari@sbu.ac.ir or ali.nazari
 2. [Tutorial for Pillow (1)](https://pillow.readthedocs.io/en/stable/handbook/tutorial.html)
 3. [Image Processing With the Python Pillow Library](https://realpython.com/image-processing-with-the-python-pillow-library/)
 4. [Tutorial for Pillow (2)](https://coderzcolumn.com/tutorials/python/pillow)
+5. [CNNs / ConvNets](https://cs231n.github.io/convolutional-networks/)
+6. [An Intuitive Explanation of CNNs](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
